@@ -1,3 +1,10 @@
+## FIRST USING APP ##
+#1. Running Server in local port 5000 in folder business_fe->src->server
+#2. please input command : node server.js
+makesure server running after submit that command
+#3.  Running app business_fe in folder business_fe
+#4. please input command: npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
